@@ -55,6 +55,7 @@ header p {
 
 .reviews {
   display: grid;
+  min-height: 500px;
 }
 .reviews .box {
   background-color: #502050;

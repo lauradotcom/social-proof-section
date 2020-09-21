@@ -54,6 +54,7 @@ header {
 
 .reviews {
     display: grid;
+    min-height: 500px;
     .box {
         background-color: $very-dark-magenta;
         border-radius: 10px;
